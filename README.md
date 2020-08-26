@@ -1,4 +1,5 @@
-THIS PROJECT MAKES RECIPES APP BY REACT
+## This project makes React App by React
+Guide: https://www.youtube.com/watch?v=U9T6YkEDkMo&list=PLX2h_UPcuRnpSo3z2NKUWb29yV-WnecoL&index=2&t=0s
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
