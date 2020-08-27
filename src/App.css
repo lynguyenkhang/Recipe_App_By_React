@@ -3,6 +3,7 @@
   background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
   flex-wrap: wrap;
   padding-top: 20px;
+  padding-bottom: 50px;
 }
 
 .search-form {
@@ -35,4 +36,5 @@
   flex-wrap: wrap;
   justify-content: space-around;
   padding: 0px 20px;
+  margin-bottom: 20px;
 }
